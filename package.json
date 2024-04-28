@@ -1,0 +1,16 @@
+{
+  "name": "contacts2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mia Q",
+  "license": "ISC",
+  "dependencies": {
+    "@headlessui/react": "^1.7.19",
+    "create-react-app": "^5.0.1",
+    "gh-pages": "^6.1.1"
+  }
+}
